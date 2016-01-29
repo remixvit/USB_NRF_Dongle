@@ -1,0 +1,110 @@
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/CortexM0/ARM_GCC_493/Debug/main.o : C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Bootloadable.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Button.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Button_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Clock.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/CyFlash.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/CyLib.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/ExtInterrupt_Reg.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/ExtInterrupt_Reg_Interrupt.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/NRF_CE.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/NRF_CE_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/NRF_IRQ.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/NRF_IRQ_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_BOOT.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_PINS.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_PVT.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_SCBCLK.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_SPI_UART.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_SPI_UART_PVT.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_miso_m.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_miso_m_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_mosi_m.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_mosi_m_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_sclk_m.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_sclk_m_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_ss0_m.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_ss0_m_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SysClock_ISR.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Timer.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_BOOT.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_PINS.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_PVT.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_rx.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_tx.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/core_cm0.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/core_cmFunc.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/core_cmInstr.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cyPm.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cyfitter.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cypins.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cytypes.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/project.h C:/PSoC/NRF_Bridge/NRFBridge.cydsn/main.c 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Bootloadable.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Button.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Button_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Clock.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/ExtInterrupt_Reg.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/ExtInterrupt_Reg_Interrupt.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/NRF_CE.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/NRF_CE_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/NRF_IRQ.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/NRF_IRQ_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_BOOT.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_PINS.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_PVT.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_SCBCLK.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_SPI_UART.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_SPI_UART_PVT.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_miso_m.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_miso_m_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_mosi_m.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_mosi_m_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_sclk_m.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_sclk_m_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_ss0_m.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SPI_ss0_m_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/SysClock_ISR.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/Timer.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_rx.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_tx.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/main.c : 
+

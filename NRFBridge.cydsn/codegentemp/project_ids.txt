@@ -1,0 +1,6 @@
+C:\PSoC\NRF_Bridge\NRFBridge.cydsn\NRFBridge.cyprj|92657f71-7bea-436d-bc1e-e8be505e35e8
+C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b93e639b-7a5c-4ee4-bbf4-e5d7e4920703
+C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5db55747-b875-4657-a8be-8bc4d30a5643
+C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5bddaf96-7518-425f-9e97-98368a89a413
+C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|66e56f40-48db-49f4-9585-d31ba4e07567
+C:\PSoC\Bootloader\Bootloader_PSoC4_Example01\Bootloader_PSoC4_Example01.cydsn\Bootloader_PSoC4_Example01.cyprj|d193c7d6-5ee1-47e1-8b9d-eb0c509aa4e9

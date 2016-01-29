@@ -1,0 +1,8 @@
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/CortexM0/ARM_GCC_493/Debug/CyBootAsmGnu.o : C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/PSoC/NRF_Bridge/NRFBridge.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+
